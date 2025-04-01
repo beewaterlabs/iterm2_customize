@@ -1,3 +1,4 @@
+# Environment: Macintosh
 #Add 'll' cmd to the shell startup file:
 
 echo "alias ll='ls -lG'" >> ~/.zshrc
